@@ -1,0 +1,47 @@
+  *{
+   padding: 0px;
+   margin: 0px;
+  }
+  #styleimage{
+    background-image:url(./flowerimg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    right: 0%;
+    left: 0%;
+    bottom: 0%;
+    top: 0%;
+}
+#style{
+   background-color: rgb(232, 233, 231);opacity: 30%;
+   text-align: center;
+   position: fixed;
+   padding: 130px;
+   width: 450px;
+   margin-inline: 270px;
+   margin-block: 170px;
+}
+.h4style{
+   font-weight:50%;
+}
+.h1style{
+   font-weight: bolder;
+}
+.hstlye{
+   font-weight: bold;
+}
+ 
+ /* .para{
+    color: aqua;
+    line-height: 20px;
+ }
+ #fl{
+    font-size: 200px;
+    color:black ;
+ }
+ p{
+    display: inline-block;
+    margin: 20px;
+ } */
